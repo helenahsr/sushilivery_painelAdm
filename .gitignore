@@ -1,0 +1,25 @@
+.vs/
+[Bb]in/
+[Oo]bj/
+TestResults/
+packages/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.pdb
+*.tmp
+*.log
+
+# Arquivos de publicação e implantação
+publish/
+PublishProfiles/
+
+# Arquivos locais de configuração
+appsettings.local.json
+*.local.config
+
+# Certificados e segredos
+*.pfx
+*.key
+*.pem
